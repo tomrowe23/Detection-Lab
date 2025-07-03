@@ -1,4 +1,4 @@
-# Detection Lab
+# SOC-Lab-Detection-Simulator
 
 ## Objective
 [Brief Objective - Remove this afterwards]
